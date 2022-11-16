@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+:root {
+    /* --------------------------------------------
+  字体
+  ---------------------------------------------*/
+    --text-color: #fff; /*字体颜色*/
+
+    --font-size-title-1: 0.14rem;
+    --font-size-title-2: 0.12rem;
+    --font-size-title-3: 0.16rem;
+    /* --------------------------------------------
+  背景颜色
+  ---------------------------------------------*/
+    /* 顶部菜单渐变色 */
+    --bg-header-left: #fff;
+    --bg-header-right: #fff;
+    --header-color: #38f;
+    --layout-background-color: #4d4d4d; /*主页面背景颜色页面*/
+    --component-background-color: #fff; /*页面组件背景*/
+    /* --------------------------------------------
+  边框阴影颜色
+  ---------------------------------------------*/
+    --box-shadow-color: rgba(0, 0, 0, 0.1);
+    /* --------------------------------------------
+  菜单
+  ---------------------------------------------*/
+    --menu-background-color: #fff;
+    --menu-item-background-color: #fff;
+    --menu-item-color: #679;
+    --menu-item-background-hover: #7ab1fb24;
+    --menu-item-active-bg: linear-gradient(90deg, #3388ff, #87b9fb);
+    --menu-item-active-color: #fff;
+    /* --------------------------------------------
+  表单
+  ---------------------------------------------*/
+    --form-label-font-color: #679;
+    --form-content-font-color: rgba(0, 0, 0, 0.65);
+    --form-content-font-weight: normal;
+    --form-item-margin-bottom: 0.16rem;
+}

@@ -1,0 +1,23 @@
+[
+    {
+        "id": "skin-default",
+        "title": "默认",
+        "href": "static/skins/skin-default.css",
+        "disabled": true,
+        "image": ""
+    },
+    {
+        "id": "skin-light",
+        "title": "白色",
+        "href": "static/skins/skin-light.css",
+        "disabled": true,
+        "image": ""
+    },
+    {
+        "id": "skin-mis",
+        "title": "MIS",
+        "href": "static/skins/skin-mis.css",
+        "disabled": true,
+        "image": ""
+    }
+]

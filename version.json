@@ -1,0 +1,16 @@
+{
+    "build": {
+        "time": "2022/11/3 17:34:21"
+    },
+    "git": {
+        "branch": "origin/pc-remote",
+        "commit": {
+            "id": "800ceab5a6f94079de483dcc0225fd5544cae3a8",
+            "time": "2022/11/3 11:19:16",
+            "author": {
+                "name": "杨欢（基础平台产品部）",
+                "email": "yanghuan@egova.com.cn"
+            }
+        }
+    }
+}
